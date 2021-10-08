@@ -1,0 +1,48 @@
+
+li{
+    font-family: 'Raleway', sans-serif;
+    color:fuchsia;
+}
+
+.bleu{
+    color:blue;
+}
+
+#rouge{
+   
+    color: #000000
+    
+}
+
+
+*{
+    font-size:20px;
+}
+
+div p{
+    font-size: 13px;
+}
+img{
+    width: 50%;
+    height: 300px;
+}
+#demi {
+    width: 50%;
+}
+
+#photo
+{width: auto;
+height: 50%;}
+
+p{
+    font-family: 'Raleway', sans-serif;
+}
+h1{
+    font-family: 'Raleway', sans-serif;
+}
+h2{
+    font-family: 'Raleway', sans-serif;
+}
+h3{
+    font-family: 'Raleway', sans-serif;
+}
